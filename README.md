@@ -1,8 +1,8 @@
 # jpa02-smmzhu
 
-Repo: [https://ucsb-cs156-f24/STARTER-jpa02](https://github.com/ucsb-cs156-f24/jpa02-smmzhu/)
+Repo: https://github.com/ucsb-cs156-f24/jpa02-smmzhu/
 
-Deployed at: [http://jpa02-replace-me.dokku-xx.cs.ucsb.edu](http://jpa02-smmzhu.dokku-11.cs.ucsb.edu/)
+Deployed at: http://jpa02-smmzhu.dokku-11.cs.ucsb.edu/
 
 
 # About this repo
