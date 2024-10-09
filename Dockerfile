@@ -5,6 +5,9 @@ FROM bellsoft/liberica-openjdk-alpine:21
 WORKDIR /app
 
 ENV NODE_VERSION=20.17.0
+
+RUN apk add --update nodejs npm
+RUN apk add python3
 RUN apk add curl
 RUN apk add bash
 RUN apk add maven
